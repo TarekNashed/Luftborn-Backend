@@ -1,0 +1,15 @@
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\bin\Debug\net6.0\Luftborn.Application.deps.json
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\bin\Debug\net6.0\Luftborn.Application.dll
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\bin\Debug\net6.0\Luftborn.Application.pdb
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.AssemblyInfoInputs.cache
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.AssemblyInfo.cs
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.csproj.CoreCompileInputs.cache
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.dll
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\refint\Luftborn.Application.dll
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.pdb
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\ref\Luftborn.Application.dll
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\bin\Debug\net6.0\Luftborn.Domain.dll
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\bin\Debug\net6.0\Luftborn.Domain.pdb
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.csproj.AssemblyReference.cache
+D:\Others\Projects\Luftborn_Project\Backend\Luftborn\Luftborn.Application\obj\Debug\net6.0\Luftborn.Application.csproj.CopyComplete
