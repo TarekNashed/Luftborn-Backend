@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj": {}
+    "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj": {
+    "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
+        "projectUniqueName": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
         "projectName": "Luftborn.Domain",
-        "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
+        "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Domain\\Luftborn.Domain.csproj",
         "packagesPath": "C:\\Users\\Tarek Mansour\\.nuget\\packages\\",
-        "outputPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Domain\\obj\\",
+        "outputPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Tarek Mansour\\AppData\\Roaming\\NuGet\\NuGet.Config",

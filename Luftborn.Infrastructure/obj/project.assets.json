@@ -3390,11 +3390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj",
       "projectName": "Luftborn.Infrastructure",
-      "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj",
+      "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Infrastructure\\Luftborn.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Tarek Mansour\\.nuget\\packages\\",
-      "outputPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Infrastructure\\obj\\",
+      "outputPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tarek Mansour\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3411,8 +3411,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj": {
-              "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj"
+            "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj": {
+              "projectPath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj"
             }
           }
         }

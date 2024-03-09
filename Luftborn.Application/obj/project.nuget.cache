@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vW6qbkhGugcKO8GcHa+cb72sDoKpgJlu9Zlrgpsf2iGqr0C1OvYVt9wYpW+mUNTagP7f9hYLcAggCzOcdHEMyw==",
+  "dgSpecHash": "5EWfUumheUiVl/yj1l47TMMKWX4g37mKiMMouht5rDTVxJNJYaIBzqKkNfQnZAiTpcrK4DT9WMB1Am5uQ3BcVA==",
   "success": true,
-  "projectFilePath": "D:\\Others\\Projects\\Luftborn_Project\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj",
+  "projectFilePath": "D:\\Others\\Projects\\Luftborn_Project\\Backend_Full\\Backend\\Luftborn\\Luftborn.Application\\Luftborn.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tarek Mansour\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Tarek Mansour\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
